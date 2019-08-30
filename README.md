@@ -1,2 +1,2 @@
 # QTerm
-A simple unix-like terminal using home-made shell.
+A simple unix-like terminal using home-made shell and Qt.
