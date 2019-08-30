@@ -1,0 +1,4 @@
+/Users/EssExx/QTerm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/EssExx/QTerm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/EssExx/QTerm/cmake-build-debug/CMakeFiles/QTerm.dir
+/Users/EssExx/QTerm/cmake-build-debug/CMakeFiles/QTerm_autogen.dir
